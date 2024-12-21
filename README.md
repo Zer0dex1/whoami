@@ -1,4 +1,4 @@
-# whoami
+# Zer0dex
 Hi there, I'm Zer0dex 👋
 
 Welcome to my GitHub profile! Here's a little about me:
