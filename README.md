@@ -5,7 +5,7 @@ Welcome to my GitHub profile! Here's a little about me:
 
 # About Me
 
-• My name is Zerodex, I'm a penetester/Red Teamer From Morocco 🇲🇦
+• My name is Zerodex, I'm a pentester/Red Teamer From Morocco 🇲🇦
 
 
 # 🎓 Background:
