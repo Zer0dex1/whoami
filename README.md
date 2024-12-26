@@ -44,8 +44,7 @@ Welcome to my GitHub profile! Here's a little about me:
 
 • Learning and sharing knowledge about cybersecurity trends and techniques.
 
-• Thanks for stopping by! 😊
-
 # 🎯 Tryhackme Profile :
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1393340" style='border:none;'></iframe>
+<img src="https://tryhackme-badges.s3.amazonaws.com/Zer0dex.png" alt="Your Image Badge" />
 
+• Thanks for stopping by! 😊
