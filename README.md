@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=009C13&vCenter=true&width=435&lines=Zer0dex+is+Here;Welcome+To+My+Profile)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=009C13&center=true&vCenter=true&width=435&lines=Zer0dex+is+Here;Welcome+To+My+Profile)](https://git.io/typing-svg)
 # Zer0dex
 Hi there, I'm Zer0dex 👋
 
